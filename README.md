@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mina</h1>
-<h3 align="center">AI/ML Engineer | Deep Learning & LLM Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=700&center=true&vCenter=true&width=500&lines=Building+AI+Systems;Training+Deep+Learning+Models;Exploring+LLMs;Full+Stack+AI+Developer" />
+</p>
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+💡 Machine Learning • Deep Learning • LLMs • Computer Vision • FastAPI • PyTorch • TensorFlow
+</marquee>
 
 ---
 
