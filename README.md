@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fathimamina&theme=algolia&row=1&column=7" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimamina&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=fathimamina&theme=tokyonight" />
 </p>
 
 <marquee scrollamount="6">
