@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=I'm Mina&fontSize=60&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Mina.&fontSize=60&fontAlignY=35" />
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Mina;AI%2FML+Engineer;Deep+Learning+Enthusiast;LLM+Builder;Computer+Vision+Explorer;Future+AI+Engineer+🚀" />
