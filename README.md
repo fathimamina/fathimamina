@@ -1,13 +1,28 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Mina&fontSize=60&fontAlignY=35" />
+</p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mina;AI%2FML+Engineer;Deep+Learning+Enthusiast;LLM+Builder;Computer+Vision+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Mina;AI%2FML+Engineer;Deep+Learning+Enthusiast;LLM+Builder;Computer+Vision+Explorer;Future+AI+Engineer+🚀" />
 </h1>
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-🚀 Machine Learning • Deep Learning • LLMs • Computer Vision • FastAPI • PyTorch • TensorFlow • Generative AI • Open Source
-</marquee>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=1000&lines=Machine+Learning;Deep+Learning;Large+Language+Models+(LLMs);Computer+Vision;FastAPI;PyTorch;TensorFlow;Generative+AI;Open+Source+Contributor" />
+</p>
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-💡 Machine Learning • Deep Learning • LLMs • Computer Vision • FastAPI • PyTorch • TensorFlow
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<marquee scrollamount="6">
+🚀 AI • Machine Learning • Deep Learning • LLMs • Computer Vision • FastAPI • PyTorch • TensorFlow • Generative AI • Open Source
 </marquee>
 
 ---
