@@ -17,10 +17,9 @@
 </p>
 
 
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=fathimamina&theme=tokyonight" />
-</p> -->
+</p> 
 
 <marquee scrollamount="6">
 🚀 AI • Machine Learning • Deep Learning • LLMs • Computer Vision • FastAPI • PyTorch • TensorFlow • Generative AI • Open Source
