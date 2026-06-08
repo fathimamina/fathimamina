@@ -10,16 +10,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fathimamina&theme=algolia&row=1&column=7" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathimamina&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=fathimamina&theme=tokyonight" />
-</p>
+</p> -->
 
 <marquee scrollamount="6">
 🚀 AI • Machine Learning • Deep Learning • LLMs • Computer Vision • FastAPI • PyTorch • TensorFlow • Generative AI • Open Source
