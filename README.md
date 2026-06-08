@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mina</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mina;AI%2FML+Engineer;Deep+Learning+%26+LLM+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=700&center=true&vCenter=true&width=500&lines=Building+AI+Systems;Training+Deep+Learning+Models;Exploring+LLMs;Full+Stack+AI+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=800&color=F75C7E&center=true&vCenter=true&width=1000&lines=💡+Machine+Learning;🤖+Deep+Learning;🧠+Large+Language+Models+(LLMs);👁️+Computer+Vision;⚡+FastAPI;🔥+PyTorch;📊+TensorFlow" alt="Typing SVG" />
 </p>
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
